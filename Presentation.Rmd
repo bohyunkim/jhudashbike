@@ -1,0 +1,26 @@
+---
+title: "JHU DaSH: Biking in Baltimore"
+date: "September 23, 2015"
+output: ioslides_presentation
+---
+
+## Data
+
+- https://data.baltimorecity.gov/
+    - arrests
+    - potholes
+    - bike paths
+- http://www-fars.nhtsa.dot.gov/Main/index.aspx
+    - accidents
+
+## R Packages
+
+- `leaflet`
+- `ggmap`
+    - `geocode` function
+    - `route` function
+- `sp` - spatial data
+
+# http://bit.ly/JHUDASHBIKE
+
+# http://kbroman.org/jhudashbike/
